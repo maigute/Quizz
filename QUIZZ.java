@@ -331,7 +331,7 @@ public class QUIZZ {
             boolean respostacerta14 = false;
         
             do {
-                System.out.println(questao13);
+                System.out.println(questao14);
    
                 System.out.println("1) Radioatividade");
                 System.out.println("2) Urânio");
@@ -355,7 +355,7 @@ public class QUIZZ {
             boolean respostacerta15 = false;
         
             do {
-                System.out.println(questao13);
+                System.out.println(questao15);
    
                 System.out.println("1) Urânio");
                 System.out.println("2) Plutônio");
